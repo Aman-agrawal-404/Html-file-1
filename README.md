@@ -1,3 +1,3 @@
 # Html-file-1
 <br>
-this repo contains my first html project.
+This repo contains my first html project.
